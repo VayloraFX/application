@@ -1,0 +1,6 @@
+{
+  "name": "G-squad",
+  "description": "Automated community trading bot for Deriv with pooled staking, risk management, real-time synthetic signals, and internal wallet",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
